@@ -5,8 +5,26 @@
 # assignment performed on a Windows 7 machine
 
 
-# The assignemnt includes two R codes 
-# Plot_1.R and Plot_2.R
+# The assignemnt includes:
 
-# Plot_1.R - generates a histogram and also contains a hypothesis to explain the shape of the histogram
+Four R scripts 
 
+Plot_1.R - Histogram 
+Plot_2.R - Time series (line plot), global active power
+Plot_3.R - Three time series plots on one chart (Submetering)
+Plot_4.R - Four plots on one chart 
+
+and the corresponding four PNG outputs 
+
+Myplot1.png
+Myplot2.png
+Myplot3.png
+Myplot4.png
+
+Also included is a histogram with higher resolution to help with the interpretation of the main histogram data analysis in Plot_1.R
+Histogram-(scenario)-higher resolution.png
+
+Result: all charts have been reproduced accurately
+Challenge: needed attention to detail, and lookimng into data classess in the imported dataset for accurate transformation of data for plotting 
+No challenge: no computer memory limitations  
+A lot of fun!  

@@ -1,6 +1,7 @@
 # ===================================================================================
 # Course Project 1 - Exploratory Data Analysis
 # Student: Yevgeniy Samyshkin, GSK
+# Script to create Plot 4 - Myplot4.png (combined with four different plots)
 # ===================================================================================
 
 # Clean memory from any garbage
